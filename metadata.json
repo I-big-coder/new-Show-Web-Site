@@ -1,0 +1,6 @@
+{
+  "name": "STEPZONE – Step Into Your Style",
+  "description": "Premium online footwear store featuring performance running shoes, men's and women's sneakers, sports footwear, and limited-edition silhouettes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
